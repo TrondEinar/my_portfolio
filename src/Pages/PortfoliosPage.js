@@ -3,7 +3,7 @@ import React from 'react';
 function PortfoliosPage() {
     return (
         <div>
-            <h1>Blogs Page</h1>
+            <h1>Portfolios Page</h1>
         </div>
     )
 }
