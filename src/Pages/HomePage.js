@@ -3,32 +3,28 @@ import { faFacebook } from '@fortawesome/free-brands-svg-icons';
 import { faGithub } from '@fortawesome/free-brands-svg-icons';
 import { faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { Link } from 'react-router-dom';
 
 function HomePage() {
     return (
         <div className="HomePage">
             <header className="hero">
                 <h1 className="hero-text">
-                    Hei! Mitt navn er
+                    Hey! My name is
                     <span> Trond Einar Eriksen.</span>
                 </h1>
                 <p className="h-sub-text">
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Cupiditate facere, numquam vitae placeat consequatur corrupti officia 
-                    quibusdam. Blanditiis doloremque nemo ex facilis neque. 
-                    A sint ipsam earum nemo omnis et.
+                    I´m taking a bachelor´s degree at Høyskolen Kristiania called "Frontend- og Mobilutvikling". I like to create cool and visual websites and apps. 
                 </p>
                 <div className="icons">
-                    <Link className="icon-holder">
-                    <FontAwesomeIcon icon={faFacebook} className="icon fb"/>
-                    </Link>
-                    <Link className="icon-holder">
+                    <a className="icon-holder" href="https://www.facebook.com/trondeinar.eriksen" target="_blank">
+                    <FontAwesomeIcon icon={faFacebook} className="icon fb" />
+                    </a>
+                    <a className="icon-holder" href="https://github.com/TrondEinar" target="_blank" >
                     <FontAwesomeIcon icon={faGithub} className="icon gh"/>
-                    </Link>
-                    <Link className="icon-holder">
+                    </a>
+                    <a className="icon-holder" href="https://www.linkedin.com/in/trond-einar-eriksen-970a021a0/" target="_blank">
                     <FontAwesomeIcon icon={faLinkedin} className="icon li"/>
-                    </Link>
+                    </a>
                 </div>
             </header>
         </div>
