@@ -12,9 +12,12 @@ function ImageSection() {
           I am<span> Trond Einar Eriksen</span>
         </h4>
         <p className="about-text">
-          Loren ipsum dolor sitt amet concenet aididigff elite. VOlftj
-          jfjfksklkfk pfkfkrgf jdkfkjf kdlfdfj kdfjdk fkdfjkd. Desire per lo la
-          ta dooso vi slone ve?
+          I dont know what to write about me, but i love Lorem Ipsum, so here
+          are some beautiful Lorem Ipsum. Lorem Ipsum is simply dummy text of
+          the printing and typesetting industry. Lorem Ipsum has been the
+          industry's standard dummy text ever since the 1500s, when an unknown
+          printer took a galley of type and scrambled it to make a type specimen
+          book.
         </p>
         <div className="about-details">
           <div className="left-section">
@@ -34,7 +37,9 @@ function ImageSection() {
             <p>: Lorem Ipsum</p>
           </div>
         </div>
-        <button className="btn">Download CV</button>
+        <a href="CV.docx" download="">
+          <button className="btn">Download CV</button>
+        </a>
       </div>
     </div>
   );
