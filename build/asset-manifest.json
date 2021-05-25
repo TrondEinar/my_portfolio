@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my_portfolio/static/css/main.59ee000b.chunk.css",
+    "main.js": "/my_portfolio/static/js/main.6ffc0dc7.chunk.js",
+    "main.js.map": "/my_portfolio/static/js/main.6ffc0dc7.chunk.js.map",
+    "runtime-main.js": "/my_portfolio/static/js/runtime-main.2b211751.js",
+    "runtime-main.js.map": "/my_portfolio/static/js/runtime-main.2b211751.js.map",
+    "static/js/2.a9e09aaf.chunk.js": "/my_portfolio/static/js/2.a9e09aaf.chunk.js",
+    "static/js/2.a9e09aaf.chunk.js.map": "/my_portfolio/static/js/2.a9e09aaf.chunk.js.map",
+    "index.html": "/my_portfolio/index.html",
+    "static/css/main.59ee000b.chunk.css.map": "/my_portfolio/static/css/main.59ee000b.chunk.css.map",
+    "static/js/2.a9e09aaf.chunk.js.LICENSE.txt": "/my_portfolio/static/js/2.a9e09aaf.chunk.js.LICENSE.txt",
+    "static/media/about.033c209d.png": "/my_portfolio/static/media/about.033c209d.png",
+    "static/media/avatar.d33c5d53.png": "/my_portfolio/static/media/avatar.d33c5d53.png",
+    "static/media/App.scss": "/my_portfolio/static/media/dots.9978678b.svg",
+    "static/media/email.a60657eb.svg": "/my_portfolio/static/media/email.a60657eb.svg",
+    "static/media/location .5cd6776e.svg": "/my_portfolio/static/media/location .5cd6776e.svg",
+    "static/media/phone.ef86e22a.svg": "/my_portfolio/static/media/phone.ef86e22a.svg",
+    "static/media/port1.65d6ecfd.jpg": "/my_portfolio/static/media/port1.65d6ecfd.jpg",
+    "static/media/port2.7f41458f.jpg": "/my_portfolio/static/media/port2.7f41458f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b211751.js",
+    "static/js/2.a9e09aaf.chunk.js",
+    "static/css/main.59ee000b.chunk.css",
+    "static/js/main.6ffc0dc7.chunk.js"
+  ]
+}
