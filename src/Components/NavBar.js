@@ -34,7 +34,7 @@ function Navbar() {
         </ul>
 
         <footer className="footer">
-          <p>@2021 Lorem Ipsum</p>
+          <p>@2023 Lorem Ipsum</p>
         </footer>
       </nav>
     </div>

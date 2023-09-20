@@ -13,9 +13,9 @@ function HomePage() {
           <span> Trond Einar Eriksen.</span>
         </h1>
         <p className="h-sub-text">
-          I´m taking a bachelor´s degree at Høyskolen Kristiania called
-          "Frontend- og Mobilutvikling". I like to create cool and visual
-          websites and apps.
+          I am a software developer at a company called Buypass. I have taken a
+          bachelor´s degree at Høyskolen Kristiania called "Frontend- og
+          Mobilutvikling". I like to create cool and visual websites.
         </p>
         <div className="icons">
           <a

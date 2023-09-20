@@ -1,5 +1,5 @@
 import React from "react";
-import about from "../img/about.png";
+import about from "../img/About.png";
 
 function ImageSection() {
   return (
@@ -30,10 +30,10 @@ function ImageSection() {
           </div>
           <div className="right-section">
             <p>: Trond Einar Eriksen</p>
-            <p>: 22</p>
+            <p>: 25</p>
             <p>: Norwegian</p>
             <p>: Norwegian, English, German</p>
-            <p>: Brannvålsveien 1009, 2560 Alvdal, Norway</p>
+            <p>: Vogts gate 43, 0474 Oslo, Norway</p>
             <p>: Lorem Ipsum</p>
           </div>
         </div>

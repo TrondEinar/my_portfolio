@@ -26,12 +26,7 @@ function ContactPage() {
           ></iframe>
         </div>
         <div className="contact-sect">
-          <ContactItem
-            icon={phone}
-            text1={"47601378"}
-            text2={"Lorem Ipsum"}
-            title={"Phone"}
-          />
+          <ContactItem icon={phone} text1={"47601378"} title={"Phone"} />
           <ContactItem
             icon={email}
             text1={"trondee98@gmail.com"}
@@ -40,8 +35,8 @@ function ContactPage() {
           />
           <ContactItem
             icon={location}
-            text1={"Trondheimsveien 27"}
-            text2={"0560 Oslo"}
+            text1={"Vogst gate 43"}
+            text2={"0474 Oslo"}
             title={"Location"}
           />
         </div>
